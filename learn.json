@@ -25,6 +25,6 @@
     "telemetry": {
         "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
     },
-    "autoPlay": true,
-    "projectType": "tutorial"
+    "autoPlay": true
 }
+
